@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/fa/9a/51/fa9a512412b269ee7eaae6d9a1088381.gif){:width="1000"}
+<img src="https://i.pinimg.com/originals/fa/9a/51/fa9a512412b269ee7eaae6d9a1088381.gif" width="1000">
 <h1 align="center">Hi, I'm Humayra Afreen 👋 </h1>
 <h3 align="center">Hello! I am a junior undergraduate Computer Science student at the University of South Florida. My interests include Back-end Software Engineering and Application Development. My passion for learning drives me to take on new challenges. I look forward to making meaningful connections!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
