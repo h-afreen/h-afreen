@@ -1,7 +1,7 @@
-![MasterHead](https://i.pinimg.com/originals/e7/16/55/e7165502b2a1cf61fa81b20e02bad088.gif)
+![MasterHead](https://i.pinimg.com/originals/c4/0d/b6/c40db678aa354ba91257f6258a1521e1.gif)
 <h1 align="center">Hi, I'm Humayra Afreen 👋 </h1>
 <h3 align="center">Hello! I am a junior undergraduate Computer Science student at the University of South Florida. My interests include Back-end Software Engineering and Application Development. My passion for learning drives me to take on new challenges. I look forward to making meaningful connections!</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/8b/23/918b233b9a425eab4b6e9fbbd54a3f4c.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-afreen&label=Profile%20views&color=0e75b6&style=flat" alt="h-afreen" /> </p>
 
