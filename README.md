@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-afreen&label=Profile%20views&color=0e75b6&style=flat" alt="h-afreen" /> </p>
 -->
 
-- 📍 I'm currently based in **Tampa, FL**
-
 - 💡 I’m learning **Full-Stack Development**
 
 <h3 align="left">💻 Tech Stack</h3>
