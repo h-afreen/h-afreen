@@ -1,5 +1,5 @@
 <img src="https://i.pinimg.com/originals/fa/9a/51/fa9a512412b269ee7eaae6d9a1088381.gif" width="1000">
-<h3 align="center">Hello! I am a junior undergraduate Computer Science student at the University of South Florida. My interests include Back-end Software Engineering and Application Development.</h3>
+<h3 align="right">Hello! I am a junior undergraduate Computer Science student at the University of South Florida.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
 
 <!-- 
@@ -7,12 +7,8 @@
 -->
 
 
-
-
-
-- 💡 I’m learning **Full-Stack Development**
-
-
+<h3 align="left" style="margin-bottom: 20px;">💡 I’m learning Full-Stack Development</h3>
+<h3 align="left" style="margin-bottom: 20px;">🚀 My interests include Back-end Software Engineering and Application Development.</h3>
 
 
 
