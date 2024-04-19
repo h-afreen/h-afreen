@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/fyrW.gif)
+![MasterHead](https://gifer.com/embed/fyrW)
 <h3 align="left">💁‍♀️ About me:</h3>
 <p align="left">Hello! I am a junior undergraduate Computer Science student at the University of South Florida.</hp>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
