@@ -1,12 +1,20 @@
 <img src="https://i.pinimg.com/originals/fa/9a/51/fa9a512412b269ee7eaae6d9a1088381.gif" width="1000">
 <h3 align="center">Hello! I am a junior undergraduate Computer Science student at the University of South Florida. My interests include Back-end Software Engineering and Application Development.</h3>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
 
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-afreen&label=Profile%20views&color=0e75b6&style=flat" alt="h-afreen" /> </p>
 -->
 
+
+
+
+
 - 💡 I’m learning **Full-Stack Development**
+
+
+
+
 
 <h3 align="left">💻 Tech Stack</h3>
 
