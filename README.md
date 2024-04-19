@@ -1,6 +1,3 @@
-<!-- 
-![MasterHead](https://i.pinimg.com/originals/fa/9a/51/fa9a512412b269ee7eaae6d9a1088381.gif)
--->
 ![MasterHead](https://i.gifer.com/fyrW.gif)
 <h3 align="left">💁‍♀️ About me:</h3>
 <p align="left">Hello! I am a junior undergraduate Computer Science student at the University of South Florida.</hp>
