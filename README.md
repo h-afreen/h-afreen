@@ -8,7 +8,7 @@
 
 - 💡 I’m learning **Full-Stack Development**
 
-# 💻 Tech Stack:
+<h3 align="left">💻 Tech Stack</h3>
 
 <div style="float: left;">
 
