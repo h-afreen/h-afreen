@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/c4/0d/b6/c40db678aa354ba91257f6258a1521e1.gif)
+![MasterHead](https://i.pinimg.com/originals/fa/9a/51/fa9a512412b269ee7eaae6d9a1088381.gif)
 <h1 align="center">Hi, I'm Humayra Afreen 👋 </h1>
 <h3 align="center">Hello! I am a junior undergraduate Computer Science student at the University of South Florida. My interests include Back-end Software Engineering and Application Development. My passion for learning drives me to take on new challenges. I look forward to making meaningful connections!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif">
@@ -7,7 +7,7 @@
 
 - 📍 I'm currently based in **Tampa, FL**
 
-- 💡 I’m learning **Flutter, Augmented Reality, and Full-Stack Development**
+- 💡 I’m learning **Full-Stack Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
