@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Humayra Afreen</h1>
+<h1 align="center">Hi, I'm Humayra Afreen 👋 </h1>
 <h3 align="center">Hello! I am a junior undergraduate Computer Science student at the University of South Florida. My interests include Back-end Software Engineering and Application Development. My passion for learning drives me to take on new challenges. I look forward to making meaningful connections!</h3>
 <img align=“right” alt=“Coding” width=“400” src=“https://i.pinimg.com/originals/e7/16/55/e7165502b2a1cf61fa81b20e02bad088.gif”>
 
