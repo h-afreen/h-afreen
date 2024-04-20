@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-afreen&label=Profile%20views&color=0e75b6&style=flat" alt="h-afreen" /> </p>
 -->
 
-<p align="left">- Hello! I am a junior undergraduate Computer Science student at the University of South Florida.</hp>
+<p align="left" style="margin-bottom: 20px;">- Hello! I am a junior undergraduate Computer Science student at the University of South Florida.</hp>
 <p align="left" style="margin-bottom: 20px;">- 💡 I’m learning Full-Stack Development</p>
 <p align="left" style="margin-bottom: 20px;">- 🚀 My interests include Back-end Software Engineering and Application Development.</p>
 
